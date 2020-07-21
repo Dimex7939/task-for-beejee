@@ -29,7 +29,7 @@ class Admin
 				return false;
 			}
 		}
-		return false
+		return false;
 	}
 }
 
