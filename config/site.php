@@ -1,0 +1,6 @@
+<?
+return array(
+	'layout' => 'tasks'
+);
+
+?>
